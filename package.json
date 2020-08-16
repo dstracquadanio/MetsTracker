@@ -1,0 +1,12 @@
+{
+  "name": "mets-tracker",
+  "version": "1.0.0",
+  "description": "An app to track your New York Mets",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "author": "Daniel Stracquadanio",
+  "license": "ISC"
+}
